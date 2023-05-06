@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    background-color: yellow;
+}
+
+.logo {
+    margin: 0.5%;
+    margin-left: 6%;
+    padding: 0px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-family: graffiti;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 2%;
+}
+
+nav {
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.a {
+    font-size: 27px;
+    text-decoration: none;
+    margin: 0 80px;
+    color: black;
+}
+
+.a:hover {
+    color: black;
+}
